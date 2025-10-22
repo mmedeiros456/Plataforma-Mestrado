@@ -1,0 +1,193 @@
+SINAL SIMULADO
+Valores dos comprimentos de onda das ressonâncias(?res): 
+1 - 1.579013
+2 - 1.583708
+3 - 1.588430
+4 - 1.593181
+5 - 1.597960
+6 - 1.602769
+Valores dos espaçamentos espectrais livres(FSR): 
+1 - 0.004695
+2 - 0.004723
+3 - 0.004751
+4 - 0.004779
+5 - 0.004809
+Valores dos fatores de extinção das ressonâncias(FE): 
+1 - 0.792025
+2 - 0.792024
+3 - 0.792026
+4 - 0.792026
+5 - 0.792022
+6 - 0.792020
+Valores das larguras à meia altura das ressonâncias(Delta_Lambda_FWHM): 
+1 - 0.000259171 um
+2 - 0.000260971 um
+3 - 0.000261871 um
+4 - 0.00026367 um
+5 - 0.00026547 um
+6 - 0.00026727 um
+Valores de Finesse(F): 
+1 - 17.989655
+2 - 18.034364
+3 - 18.017065
+4 - 18.003390
+5 - 17.993266
+Fator de Qualidade(Q): 
+1 - LambdaRes=1.579013 Q=6093
+2 - LambdaRes=1.583708 Q=6069
+3 - LambdaRes=1.588430 Q=6066
+4 - LambdaRes=1.593181 Q=6042
+5 - LambdaRes=1.597960 Q=6019
+6 - LambdaRes=1.602769 Q=5997
+Tempo de Vida do Foton(Tf): 
+1 - 32.089611
+2 - 32.058089
+3 - 32.138747
+4 - 32.110580
+5 - 32.084518
+6 - 32.060566
+Indice de Grupo(Ng): 
+1 - 5.817773
+2 - 5.822468
+3 - 5.827191
+4 - 5.831941
+5 - 5.836721
+6 - 5.841530
+
+
+>>>>>>>  SINAL REAL
+Valores dos comprimentos de onda das ressonâncias(?res): 
+1 - 1.569738
+2 - 1.574360
+3 - 1.579021
+4 - 1.583717
+5 - 1.588453
+6 - 1.593206
+7 - 1.597981
+8 - 1.602807
+9 - 1.607665
+10 - 1.612552
+Valores dos espaçamentos espectrais livres(FSR): 
+1 - 0.004622
+2 - 0.004661
+3 - 0.004696
+4 - 0.004736
+5 - 0.004753
+6 - 0.004775
+7 - 0.004826
+8 - 0.004858
+9 - 0.004887
+Valores dos fatores de extinção das ressonâncias (FE): 
+1 - 0.962136
+2 - 0.943300
+3 - 0.859872
+4 - 0.783712
+5 - 0.786996
+6 - 0.855776
+7 - 0.879300
+8 - 0.780517
+9 - 0.711324
+10 - 0.719753
+Valores das larguras à meia altura das ressonâncias(Delta_Lambda_FWHM): 
+1 - 0.000213276 um 
+2 - 0.000238473 um 
+3 - 0.000225875 um 
+4 - 0.000212376 um 
+5 - 0.000244772 um 
+6 - 0.000259171 um 
+7 - 0.000283468 um 
+8 - 0.000287067 um 
+9 - 0.000295167 um 
+10 - 0.000308666 um 
+Valores de Finesse(F): 
+1 - 19.381150
+2 - 20.637419
+3 - 22.110187
+4 - 19.349309
+5 - 18.340270
+6 - 16.844455
+7 - 16.811960
+8 - 16.457307
+9 - 15.833788
+Fator de Qualidade(Q): 
+1 - LambdaRes=1.569738 um Q=7360
+2 - LambdaRes=1.574360 um Q=6602
+3 - LambdaRes=1.579021 um Q=6991
+4 - LambdaRes=1.583717 um Q=7457
+5 - LambdaRes=1.588453 um Q=6490
+6 - LambdaRes=1.593206 um Q=6147
+7 - LambdaRes=1.597981 um Q=5637
+8 - LambdaRes=1.602807 um Q=5583
+9 - LambdaRes=1.607665 um Q=5447
+10 - LambdaRes=1.612552 um Q=5224
+Tempo de Vida do Foton(Tf): 
+1 - 38.538207
+2 - 34.669531
+3 - 36.820272
+4 - 39.393892
+5 - 34.384781
+6 - 32.669078
+7 - 30.048204
+8 - 29.850981
+9 - 29.208049
+10 - 28.100761
+Valores de Índice de Grupo(Ng): 
+4.267556
+4.256400
+4.250571
+4.239471
+4.249541
+4.255714
+4.235953
+4.234037
+4.233934
+
+
+ANALISES DE DIFERENÇA DOS SINAIS
+Diferença das ressonâncias(?res): 
+1 - 0.0005%
+2 - 0.0006%
+3 - 0.0014%
+4 - 0.0016%
+5 - 0.0013%
+6 - 0.0024%
+Diferença dos FSR: 
+1 - 0.0192%
+2 - 0.2850%
+3 - 0.0568%
+4 - 0.0942%
+5 - 0.3543%
+Diferença dos FE: 
+1 - 7.8903%
+2 - 1.0607%
+3 - 0.6391%
+4 - 7.4493%
+5 - 9.9258%
+6 - 1.4737%
+Diferença dos FWHM: 
+1 - 14.7409%
+2 - 22.8815%
+3 - 6.9855%
+4 - 1.7361%
+5 - 6.3491%
+6 - 6.8963%
+Diferença dos Finesse: 
+1 - 18.6363%
+2 - 6.7958%
+3 - 1.7623%
+4 - 6.8802%
+5 - 7.0266%
+Diferença dos Fatores de Qualidade Q: 
+1 - 12.8475%
+2 - 18.6212%
+3 - 6.5307%
+4 - 1.7080%
+5 - 6.7782%
+6 - 7.4046%
+Diferença dos Tempos de Fóton: 
+1 - 12.8480%
+2 - 18.6217%
+3 - 6.5321%
+4 - 1.7096%
+5 - 6.7768%
+6 - 7.4020%
