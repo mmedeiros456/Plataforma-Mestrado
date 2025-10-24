@@ -19,12 +19,13 @@ path(path,'data')
 warning ('off','all')
 
 %% Carregar dados
-config_1_plus_t_GA; % 20 cn1
+%tutorial_1;
+%config_1_plus_t_GA; % 20 cn1
 %config_2_plus_t_GA; % 20 cn2
-%config_3_plus_t_GA; % 5 cn1 high weight erroCustoCorr
+%config_3_plus_t_GA; % 5 cn1 , somente a caracterização
 %config_4_plus_t_GA; % 90 cn1
 %config_5_plus_t_GA; % 90 cn2
-%config_6_plus_t_GA; % 5 cn2 high weight erroCustoCorr
+config_6_plus_t_GA; % 5 cn2 , somente a caracterização
 
 load(namefile);
 eval(sprintf('onecavity = %s;',data_load));
@@ -81,6 +82,7 @@ end
 %load '20um_cn2_13_percent_max_erro.mat';
 %load '90um_cn1_25_percent_max_erro.mat';
 %load '90um_cn2_7_percent_max_erro.mat';
+%load '05um_cn1_xx_percent_max_erro.mat';
 
 flagD = 1;
 funcao_custo_ag_fase_t_GA(x(pos,:),flagD,struct_R,flagDebug,c,L1,lpot,pesos);

@@ -1,0 +1,65 @@
+>>>>>>>  SINAL REAL cn2
+Valores dos comprimentos de onda das ressonâncias(?res): 
+1 - 1.579716300000000
+2 - 1.599405300000000
+3 - 1.619711300000000
+Valores dos espaçamentos espectrais livres(FSR): 
+1 - 19.689000000000
+2 - 20.306000000000
+Valores dos fatores de extinção das ressonâncias(FE): 
+1 - 0.860189355931326
+2 - 0.514115017153520
+3 - 0.394715197345289
+Valores das larguras à meia altura das ressonâncias(Delta_Lambda_FWHM): 
+1 - 143.000000000004 um
+2 - 207.000000000068 um
+3 - 254.999999999894 um
+Valores de Finesse(F): 
+1 - 95.115942028953398
+2 - 79.631372549052386
+Fator de Qualidade(Q): 
+1 - 11046.96713286681
+2 - 7726.59565217137
+3 - 6351.80901961048
+Tempo de Vida do Foton(Tf): 
+1 - 58.210517241744490
+2 - 41.221710911219247
+3 - 34.317397152482769
+Indice de Grupo(Ng): 
+1 - 4.135647644678535
+2 - 4.112453208821623
+
+
+
+>>>>>>>  SINAL REAL cn1
+Valores dos comprimentos de onda das ressonâncias(?res): 
+1 - 1.506059
+2 - 1.523688
+3 - 1.541755
+Valores dos espaçamentos espectrais livres(FSR): 
+1 - 0.017629
+2 - 0.018067
+Valores dos fatores de extinção das ressonâncias (FE): 
+1 - 0.441382
+2 - 0.911511
+3 - 0.382327
+Valores das larguras à meia altura das ressonâncias(Delta_Lambda_FWHM): 
+1 - 0.000117 um 
+2 - 0.000111 um 
+3 - 0.000117 um 
+Valores de Finesse(F): 
+1 - 158.819820
+2 - 154.418803
+Fator de Qualidade(Q): 
+1 - LambdaRes=1.506059 um Q=12872
+2 - LambdaRes=1.523688 um Q=13727
+3 - LambdaRes=1.541755 um Q=13177
+Tempo de Vida do Foton(Tf): 
+1 - 64.666184
+2 - 69.766710
+3 - 67.767895
+Valores de Índice de Grupo(Ng): 
+4.191933
+4.187884
+
+
